@@ -27,6 +27,6 @@
 //Console.WriteLine($"{Math.PI:F2}");
 //Console.WriteLine($"{Math.E:F1}");
 
-Console.WriteLine("2 кг\n13 17");
+//Console.WriteLine("2 кг\n13 17");
 
-
+Console.WriteLine(Math.Sin(60 * Math.PI / 180));
